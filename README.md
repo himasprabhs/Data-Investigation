@@ -44,3 +44,11 @@ The task was to uncover **who committed the murder** using only SQL queries and 
 ## 🎯 Use Case
 
 This project demonstrates my ability to analyze complex datasets, apply SQL for decision-making, and communicate insights clearly — aligned with **Data Analyst / Business Analyst roles**.
+
+---
+
+## 🎯 Detailed Explanation
+
+This project has been explained through a video on LinkedIn. 
+
+- __[Check it out here](https://www.linkedin.com/posts/himasprabhs_sql-murder-mystery-ugcPost-7400634119233290240-vMKa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1vFu8BovHVB81NWf1xic3xorF5sS_24so)__
