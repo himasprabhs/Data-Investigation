@@ -1,4 +1,4 @@
-# CEO Murder Mystery – Case Study
+# Data Investigation – Case Study
 ### Who Killed the CEO?
 
 This project is a SQL-based investigative case study where I solved a fictional murder mystery by analyzing structured data using SQL queries.
